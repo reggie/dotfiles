@@ -1,0 +1,5 @@
+mkdir -p "$HOME/.config/nvim/" && cp ".config/nvim/init.vim" "$HOME/.config/nvim/init.vim"
+mkdir -p "$HOME/.local/share/nvim/site/autoload/" && cp ".local/share/nvim/site/autoload/plug.vim" "$HOME/.local/share/nvim/site/autoload/plug.vim"
+cp ".gitignore_global" "$HOME/.gitignore_global"
+cp ".tmux.conf" "$HOME/.tmux.conf"
+cp  ".zshrc" "$HOME/.zshrc"

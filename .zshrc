@@ -88,5 +88,4 @@ alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 
 alias vim="nvim"
 DISABLE_AUTO_TITLE="true"
-export PATH="$HOME/.rbenv/bin:$PATH"
-eval "$(rbenv init -)"
+export PATH="/opt/homebrew/bin:$PATH"

@@ -1,7 +1,5 @@
 brew "neovim"
 brew "postgresql"
-brew "rbenv"
 brew "redis"
-brew "ruby-build"
 brew "tmux"
 brew "yarn"

@@ -1,0 +1,11 @@
+cp "temp-init.vim" "$HOME/.config/nvim/init.vim"
+cp "temp-plug.vim" "$HOME/.local/share/nvim/site/autoload/plug.vim"
+cp "temp-gitignore_global" "$HOME/.gitignore_global"
+cp "temp-tmux.conf" "$HOME/.tmux.conf"
+cp "temp-zshrc" "$HOME/.zshrc"
+
+rm "temp-init.vim"
+rm "temp-plug.vim"
+rm "temp-gitignore_global"
+rm "temp-tmux.conf"
+rm "temp-zshrc"
