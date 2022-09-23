@@ -1,5 +1,7 @@
 brew "neovim"
+brew "node"
 brew "postgresql"
+brew "python"
 brew "redis"
 brew "tmux"
 brew "yarn"
